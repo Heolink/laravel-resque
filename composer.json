@@ -13,9 +13,9 @@
 	"require": {
 		"php": ">=5.4.0",
 
-		"illuminate/config": "4.1.x",
-		"illuminate/queue": "4.1.x",
-		"chrisboulton/php-resque": "1.2.*"
+		"illuminate/config": "4.2.x",
+		"illuminate/queue": "4.2.x",
+		"chrisboulton/php-resque": "1.2.x"
 	},
 	"suggest": {
 		"chrisboulton/php-resque-scheduler": "Enables the use of the ResqueScheduler functionality."
